@@ -1,3 +1,3 @@
 Imię: Patryk <br>
 Nazwisko: Kamela <br>
-Tytuł projektu: Projekt Informatyka <br>
+Tytuł projektu: Arkanoid <br>
